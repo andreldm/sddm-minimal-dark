@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Minimal Dark
+Description=A minimal dark SDDM theme.
+Screenshot=screenshot.png
+License=CC-BY-SA
+Type=sddm-theme
+Version=1.0
+Screenshot=screenshot.png
+MainScript=Main.qml
+Theme-Id=minimal-dark
+Theme-API=2.0
